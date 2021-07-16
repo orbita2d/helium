@@ -1,0 +1,25 @@
+# Build directory
+build
+dist
+lib
+bin
+_deps
+
+# .vscode directory
+.vscode
+
+# Profiling output
+gmon.out
+
+*.gen
+*.exe
+*.cmake
+*.dll
+*.dll.a
+Makefile
+
+CMakeFiles
+
+CMakeCache.txt
+testelo.sh
+Testing
